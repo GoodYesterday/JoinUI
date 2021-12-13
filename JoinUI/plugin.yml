@@ -1,0 +1,8 @@
+---
+name: JoinUI
+author: GYo.O
+version: G111
+api:
+- 4.0.0
+main: GY\PM4\JoinUI
+...
